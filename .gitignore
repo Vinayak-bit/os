@@ -1,0 +1,6 @@
+bin/
+obj/
+iso_root/
+image.iso
+limine-binary/
+limine-binary.tar.gz
